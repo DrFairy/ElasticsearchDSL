@@ -1,6 +1,6 @@
 {
-    "name": "ongr/elasticsearch-dsl",
-    "description": "Elasticsearch DSL library",
+    "name": "ocramius/elasticsearch-dsl",
+    "description": "!!! TEMPORARY FORK !!! WILL BE REMOVED !!! Elasticsearch DSL library",
     "type": "library",
     "homepage": "http://ongr.io",
     "license": "MIT",
