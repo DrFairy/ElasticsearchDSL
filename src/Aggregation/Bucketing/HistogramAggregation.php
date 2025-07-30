@@ -203,7 +203,7 @@ class HistogramAggregation extends AbstractAggregation
                 'min' => $min,
                 'max' => $max,
             ],
-            'strlen'
+            fn($v) => strlen((string)$v)
         );
         $this->extendedBounds = $bounds;
 
